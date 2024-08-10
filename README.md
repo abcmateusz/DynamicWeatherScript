@@ -47,10 +47,9 @@ Just add the script to your game, and it will start running automatically. It sw
 
 Feel free to use and modify this script for your Roblox projects. No need for attribution, but it’s appreciated if you let others know where you got it from!
 
-## Contact
-
-If you have any questions or need help, reach out to me at [Your Contact Information].
-
 ---
 
 Enjoy adding some weather effects to your Roblox game!
+---
+Author
+@abcMateusz
